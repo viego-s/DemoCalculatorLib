@@ -1,0 +1,16 @@
+D:\VS\code\C#\DemoCalculatorLib\bin\Debug\DemoCalculatorLib.dll
+D:\VS\code\C#\DemoCalculatorLib\bin\Debug\DemoCalculatorLib.pdb
+D:\VS\code\C#\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csproj.AssemblyReference.cache
+D:\VS\code\C#\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.UserControl1.resources
+D:\VS\code\C#\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csproj.GenerateResource.cache
+D:\VS\code\C#\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csproj.CoreCompileInputs.cache
+D:\VS\code\C#\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.dll
+D:\VS\code\C#\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.pdb
+D:\VS\code\CSharp\DemoCalculatorLib\bin\Debug\DemoCalculatorLib.dll
+D:\VS\code\CSharp\DemoCalculatorLib\bin\Debug\DemoCalculatorLib.pdb
+D:\VS\code\CSharp\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csproj.AssemblyReference.cache
+D:\VS\code\CSharp\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.UserControl1.resources
+D:\VS\code\CSharp\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csproj.GenerateResource.cache
+D:\VS\code\CSharp\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.csproj.CoreCompileInputs.cache
+D:\VS\code\CSharp\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.dll
+D:\VS\code\CSharp\DemoCalculatorLib\obj\Debug\DemoCalculatorLib.pdb
